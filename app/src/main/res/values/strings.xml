@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Layout Study</string>
+    <string name="linear">Linear Layout</string>
+    <string name="relative">Relative Layout</string>
+    <string name="table">Table Layout</string>
+    <string name="grid">Grid Layout</string>
+</resources>
